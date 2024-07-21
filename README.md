@@ -11,7 +11,6 @@
 
 ----
 
-- Spring
 - Spring Boot
 - Gradle - Groovy
 - Java 21
